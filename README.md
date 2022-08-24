@@ -9,9 +9,12 @@
 ✔️ Run project by running command $python 2048.py
 
 
-:heart: Our Project on running looks like (Use up,down,left,right arrows to play :smiley:)
+Use up,down,left,right arrows to play :smiley:
 
 
-![img](./img.png)
+:heart: Our Project on running looks like 
+
+
+<img src="./img.png" width="100" height="150">
 
 
