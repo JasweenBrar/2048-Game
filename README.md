@@ -15,6 +15,6 @@ Use up,down,left,right arrows to play :smiley:
 :heart: Our Project on running looks like 
 
 
-<img src="./img.png" width="100" height="150">
+<img src="./img.png" width="270" height="300">
 
 
